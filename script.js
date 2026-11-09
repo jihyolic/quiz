@@ -1,5 +1,5 @@
 // ▼ Apps Script 웹앱 배포 URL을 여기에 붙여넣으세요
-const API_URL = "";
+const API_URL = "https://script.google.com/macros/s/AKfycbxm4PivrM9A61MqHyY4QQiQqSWXMANxIFbZIx3KRzY3A0ChSUpp1wjoYyPzRDykzJpB/exec";
 
 const BANK = [
  {q:"혈액검사(공복 혈당·콜레스테롤)를 위해 검진 전 최소 몇 시간 금식해야 할까요?",o:["2시간","4시간","8시간","12시간 이상"],a:2,e:"정확한 혈당과 지질 수치를 위해 최소 8시간 이상 공복을 유지하세요. 물은 소량 마셔도 괜찮습니다."},
